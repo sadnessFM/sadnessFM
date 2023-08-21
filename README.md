@@ -1,6 +1,4 @@
 <center>
-  <a href="https://github.com/sadnessFM/MASUNYA-BEBEBEBE" target="https://github.com/sadnessFM/MASUNYA-BEBEBEBE">
-    <img src = "https://steamuserimages-a.akamaihd.net/ugc/1875199567096362158/3C3CC8CC000303ADDD21EB2A5AC504F6D2DF9D8A/"> </img>
-  </a>
+    <img src = "https://cdn.discordapp.com/attachments/749031363721560185/1124405843429965874/FsYFM8faQAIx5Ml.jpg"> </img>
 </center
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sadnessFM)](https://git.io/streak-stats)
